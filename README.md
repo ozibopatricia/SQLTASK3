@@ -1,6 +1,9 @@
 # SQLTASK3
 ## PROBLEM STATEMENT
 ## UPDATING TABLE IN MYSQL
+### UPDATE is used to modify data within a table
+### SET changes  specific column value
+### WHERE focuses changes on chosen rows while maintaining data accuracy
 ### Run a query that returns the DAY,MONTH, and YEAR each employee came into the company
 
 ![](EMPLOYEEINFO(DAYONLY).PNG)
